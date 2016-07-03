@@ -1,0 +1,110 @@
+#home{
+    background-image:url('../asset/images/424bbc_5985af4b0a504b5e92bace8857093a3c-mv2_d_2800_1869_s_2.jpg') !important;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center top;
+/*
+    background-color: #1b1c1d;
+    background-blend-mode: overlay;
+*/
+}
+#ourServices{
+/*
+    background-image:url('../asset/images/424bbc_78760ac4761a417f84c0f0ce71088bc9-mv2_d_3100_2067_s_2.jpg') !important;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-color: #1b1c1d;
+    background-blend-mode: overlay;
+*/
+    background-color: #f4f4f2;
+    color: #323433;
+}
+#ourServices .segment{
+/*    background-color: rgba(0,0,0,0.0);*/
+    background-color: #f4f4f2;
+    color: #323433;
+}
+#ourServices .header{
+    color: #323433;
+}
+#contactUs{
+    background-color: #55acc8;
+}
+#contactUs .segment{
+    background-color: #55acc8;
+}
+#footer,#followMenu,#pushMenu{
+    background-color: #323433;
+}
+.masthead.segment {
+  min-height: 700px;
+  padding: 1em 0em;
+}
+.masthead .logo.item img {
+  margin-right: 1em;
+}
+.masthead .ui.menu .ui.button {
+  margin-left: 0.5em;
+}
+.masthead h1.ui.header {
+  margin-top: 7em;
+  margin-bottom: 0em;
+  font-size: 3em;
+  font-weight: normal;
+/*  width: 70%;*/
+}
+.masthead h2 {
+  font-size: 1.5em;
+  font-weight: normal;
+/*  width: 70%;*/
+}
+#mailForm.ui.form .fields .wide.field input,
+#mailForm.ui.form .fields .wide.field textarea{
+    background: #fff;
+/*    background: rgba(0,0,0,0.1);*/
+    color: #fff;
+    border-radius: 0;
+}
+#mailForm.ui.form button,
+#home .huge.button{
+    border-radius: 0;
+}
+#scrollUp{
+    position: fixed;
+    right: 20px;
+    bottom: 20px; 
+    z-index: 9999;
+}
+#menu .smallMenu,
+#followMenu .smallMenu{
+    display: none;
+/*    visibility: hidden;*/
+}
+@media only screen and (max-width: 767px){
+    .masthead.segment {
+        min-height: 360px;
+    }
+    .masthead h1.ui.header {
+        font-size: 1.7em;
+        /*        margin-top: 1.5em;*/
+        width: 100%;
+    }
+    .masthead h2 {
+        margin-top: 0.5em;
+        font-size: 0.9em;
+/*        width: 90%;*/
+    }
+    #mailForm.ui.form .fields .wide.field{
+        margin-bottom: 10px !important;
+    }
+    #menu .smallMenu,
+    #followMenu .smallMenu{
+        display: block;
+    }
+    #menu .bigMenu,
+    #followMenu .bigMenu{
+        display: none;
+    /*    visibility: hidden;*/
+    }  
+}
