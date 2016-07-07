@@ -103,7 +103,7 @@
                             Manpower
                         </div>
                         <p>
-                            Look no further than Peace Advantage for your mechanical, electrical, instrumentation, system and project management based projects. With access to highly trained engineers that are up to speed with industry standards and regulation, Peace Advantage will meet your needs with project specific personnel either on short term or long term periods. Our engineers will work in Oil & Gas as well as Energy industries.
+                            Look no further than Peace Advantage for your mechanical, electrical, instrumentation, system and project management based projects. With access to highly trained engineers that are up to speed with industry standards and regulations, Peace Advantage will meet your needs with project specific personnel either on short term or long term periods. Our engineers work in Oil & Gas as well as Energy industries.
                         </p>
                     </div>
                 </div>
@@ -114,7 +114,7 @@
                             Equipment Supply
                         </div>
                         <p>
-                            With O.E.M partnerships Peace Advantage is well place to meet your equipment needs. From valves to pumps, flanges to fittings, tubings, casings and accessories, wellheads to christmas trees Peace Advantage will source and deliver to you through our well developed supply chain management team. Your equipment needs from production to site handled by Peace Advantage.
+                            With O.E.M partnerships Peace Advantage is well placed to meet your equipment needs. From valves to pumps, flanges to fittings, tubings, wellheads to christmas trees, casings and accessories Peace Advantage will source and deliver to you through our well developed supply chain management team. Your equipment needs from production to site will be handled by Peace Advantage.
                         </p>
                     </div>
                 </div>
